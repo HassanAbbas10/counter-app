@@ -7,7 +7,7 @@ body {
 }
 
 .container {
-    background: white;
+    background: rgb(159, 154, 220);
     max-width: 80%;
     margin: auto;
     border: 3px solid black;
